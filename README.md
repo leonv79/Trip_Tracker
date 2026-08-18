@@ -7,6 +7,17 @@ The following app tracks every trip you make, so you can visualize all the parts
 
 <img width="2508" height="1265" alt="image" src="https://github.com/user-attachments/assets/9633d553-13d2-4636-b748-fa5e57ca178a" />
 
+An extra feature is the different kinds of visuals for the map, that can be changed on the top right side of the map. 
+
+<img width="696" height="589" alt="image" src="https://github.com/user-attachments/assets/ee00f613-80f6-4405-b1a5-03e74115a884" />
+
+<img width="697" height="592" alt="image" src="https://github.com/user-attachments/assets/d0c29276-d172-44a8-a3ad-881d6a13309e" />
+
+<img width="693" height="598" alt="image" src="https://github.com/user-attachments/assets/3a89d2b6-a004-49f5-bb29-bd2af69161e6" />
+
+
+
+
 
 
 
