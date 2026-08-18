@@ -11,7 +11,7 @@ The following app tracks every trip you make, so you can visualize all the parts
 
 HOW TO RUN
 
-To run this app simply download the app.py locally and through the cmd run the following: streamlit run trip_tracker.py
+To run this app simply download the trip_tracker.py locally and through the cmd run the following: streamlit run trip_tracker.py
 
 LIBRARIES
 
