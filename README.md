@@ -2,6 +2,7 @@
 A project that combines my love for trips with coding.
 
 SUMMARY
+
 The following app tracks every trip you make, so you can visualize all the parts of the world you have visited. What you need to select is just the country and the corresponding city and the markers are filled. It also gives the opportunity to download the html, so you don't have to access the app every time you need to rerun the process.
 
 <img width="2508" height="1265" alt="image" src="https://github.com/user-attachments/assets/9633d553-13d2-4636-b748-fa5e57ca178a" />
