@@ -2,7 +2,7 @@
 A project that combines my love for trips with coding.
 
 SUMMARY
-The following app tracks every trip you make, so you can visualize all the parts of the world you have visited. It also gives the oppotunity to download the html, so you don't have to access the app everytime you need to rerun th process.
+The following app tracks every trip you make, so you can visualize all the parts of the world you have visited. What you need to select is just the country and the corresponding city and the markers are filled. It also gives the opportunity to download the html, so you don't have to access the app every time you need to rerun the process.
 
 <img width="2508" height="1265" alt="image" src="https://github.com/user-attachments/assets/9633d553-13d2-4636-b748-fa5e57ca178a" />
 
@@ -11,7 +11,11 @@ The following app tracks every trip you make, so you can visualize all the parts
 
 HOW TO RUN
 
-To run this app simply download the trip_tracker.py locally and through the cmd run the following: streamlit run trip_tracker.py
+To run this app simply download the trip_tracker.py and requirements.txt locally and through the cmd run the following 2 commands: 
+-> pip install -r requirements.txt
+-> streamlit run trip_tracker.py
+
+An easier way is also to access the streamlit community to test it without installing anything. (Try it here: https://triptracker-s8ppjuv27pvtzywjemvfcy.streamlit.app/)
 
 LIBRARIES
 
@@ -19,4 +23,4 @@ To make this app, I used the really useful streamlit package for the app configu
 
 LIMITATIONS
 
-The main limitation is the dataset that is sligthly missing some areas, however it gets the job done for now. 
+The main limitation is the dataset has some coverage limitations, however it works great for this project. 
